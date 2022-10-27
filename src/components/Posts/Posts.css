@@ -1,0 +1,16 @@
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.postswrite{
+    margin: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    width:min-content;
+    position: relative;
+    top: 11%;
+    font-size: 50px;
+    align-items: center;
+    display: block;
+}
